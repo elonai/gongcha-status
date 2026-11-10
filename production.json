@@ -1,0 +1,11 @@
+{
+  "v": 1,
+  "env": "production",
+  "updated_at": "2026-11-10T03:33:20.021Z",
+  "customer": {
+    "mode": "none"
+  },
+  "rider": {
+    "mode": "none"
+  }
+}
